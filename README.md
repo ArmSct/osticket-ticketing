@@ -1,1 +1,1 @@
-# osTicket Ticketing
+# osTicket Incident Handling
