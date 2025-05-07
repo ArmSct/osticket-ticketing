@@ -1,1 +1,1 @@
-# osticket-ticketing
+# osTicket Ticketing
