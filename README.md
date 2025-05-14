@@ -10,7 +10,7 @@ In this lab, I simulate the lifecycle of support tickets within the osTicket sys
 - IIS, PHP, MySQL for backend support
 
 ## Ticket 1: Online Banking System Outage
-From the end-user osTicket URL (http://localhost/osTicket) submit a ticket as karen (end-user) describing the issue. 
+From the end-user osTicket URL (http://localhost/osTicket) submit a ticket as karen (end-user) describing the issue. The issue, Users cannot access the online banking portal.
 ![mstsc_7eYbwQNmsG](https://github.com/user-attachments/assets/73985d6b-fd04-42a3-b896-932cf17423af)
 
 As a Help Desk Agent (John) change the SLA to "SEV-A" and update the Help Topic to "Report a Problem / Business Critical Outage". 
@@ -25,7 +25,7 @@ As an Online Bamking Agent (Jane), investigate the issue and resolve the problem
 ![mstsc_lph5IbpN8G](https://github.com/user-attachments/assets/2472a598-b4d9-48df-a4ec-fa806bc11ce6)
 
 ## Ticket 2: Adobe Upgrade Failure
-From the end-user osTicket URL (http://localhost/osTicket) submit a ticket as ken (end-user) describing the issue. 
+From the end-user osTicket URL (http://localhost/osTicket) submit a ticket as ken (end-user) describing the issue. The issue, two users cannot open an Adobe program.
 ![mstsc_TYjvDjnzAO](https://github.com/user-attachments/assets/80c21402-466c-41d1-a4c7-64d2420cdd65)
 
 As a Help Desk Agent (John) change the SLA to "SEV-C". Investigate the issue and update the customer on the situation.
@@ -35,3 +35,11 @@ Once the problem is resolved, close the ticket and leave a note regarding the cl
 ![mstsc_foWw3m6tZ7](https://github.com/user-attachments/assets/1c6eb0b5-6c1a-47af-9e65-16d4e6bf8424)
 
 ## Ticket 3: CFO Laptop Fails to Power On
+From the end-user osTicket URL (http://localhost/osTicket) submit a ticket describing the issue. The CFO's laptop will not power on.
+![mstsc_ievdSFzAZH](https://github.com/user-attachments/assets/c10ff392-55c4-4018-bab7-5b892fd4a267)
+
+As a Help Desk Agent (John) change the SLA to "SEV-B". Investigate the issue.
+![mstsc_hDPu2LCWuX](https://github.com/user-attachments/assets/c2846fc6-9a77-43c2-b682-9da78fabf689)
+
+Once the problem is resolved, resolve the ticket and leave a note regarding the resolved ticket.
+![mstsc_YhyN1P9eEI](https://github.com/user-attachments/assets/b1c3cc49-29c3-4fcc-813b-5cecb0f95059)
