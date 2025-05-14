@@ -9,6 +9,19 @@ In this lab, I simulate the lifecycle of support tickets within the osTicket sys
 - IIS, PHP, MySQL for backend support
 
 ## Ticket 1: Online Banking System Outage
+From the end-user osTicket URL (http://localhost/osTicket) submit a ticket as karen (end-user) describing the issue. 
+![mstsc_7eYbwQNmsG](https://github.com/user-attachments/assets/73985d6b-fd04-42a3-b896-932cf17423af)
+
+As a Help Desk Agent (John) change the SLA to "SEV-A" and update the Help Topic to "Report a Problem / Business Critical Outage". 
+![mstsc_A9I2cHhpzZ](https://github.com/user-attachments/assets/4044a568-1322-4334-95a9-1e9c95704455)
+
+Escalate the problem to a more capable department, in this case, the "Online Banking" department.
+![mstsc_WodhEYXeqn](https://github.com/user-attachments/assets/e60fd970-b175-4a89-9257-ef60a9a93f7b)
+
+As an Online Bamking Agent (Jane), investigate the issue and resolve the problem. The close the ticket.
+![mstsc_vkNqKFOubz](https://github.com/user-attachments/assets/06d5e39e-6004-44e2-8b0a-ee4e073289ec)
+
+![mstsc_lph5IbpN8G](https://github.com/user-attachments/assets/2472a598-b4d9-48df-a4ec-fa806bc11ce6)
 
 ## Ticket 2: Adobe Upgrade Failure
 
