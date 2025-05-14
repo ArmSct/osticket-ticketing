@@ -1,7 +1,6 @@
 ![68747470733a2f2f692e696d6775722e636f6d2f7278463149686a2e706e67](https://github.com/user-attachments/assets/7fa9f6dd-dbb0-45db-b07b-2031041045fb)
 
 # osTicket Incident Handling
-
 In this lab, I simulate the lifecycle of support tickets within the osTicket system by creating, managing, and resolving tickets as both end users and help desk agents. The objective is to practice efficient ticket handling, ensure proper classification, and understand escalation paths while maintaining clear communication with the user.
 
 ## Technology Utilized
@@ -26,5 +25,13 @@ As an Online Bamking Agent (Jane), investigate the issue and resolve the problem
 ![mstsc_lph5IbpN8G](https://github.com/user-attachments/assets/2472a598-b4d9-48df-a4ec-fa806bc11ce6)
 
 ## Ticket 2: Adobe Upgrade Failure
+From the end-user osTicket URL (http://localhost/osTicket) submit a ticket as ken (end-user) describing the issue. 
+![mstsc_TYjvDjnzAO](https://github.com/user-attachments/assets/80c21402-466c-41d1-a4c7-64d2420cdd65)
+
+As a Help Desk Agent (John) change the SLA to "SEV-C". Investigate the issue and update the customer on the situation.
+![mstsc_mLKhhz423h](https://github.com/user-attachments/assets/420bc80f-97cd-4fe5-9374-4fa7e2ec5916)
+
+Once the problem is resolved, close the ticket and leave a note regarding the closed ticket.
+![mstsc_foWw3m6tZ7](https://github.com/user-attachments/assets/1c6eb0b5-6c1a-47af-9e65-16d4e6bf8424)
 
 ## Ticket 3: CFO Laptop Fails to Power On
