@@ -1,3 +1,5 @@
+![68747470733a2f2f692e696d6775722e636f6d2f7278463149686a2e706e67](https://github.com/user-attachments/assets/7fa9f6dd-dbb0-45db-b07b-2031041045fb)
+
 # osTicket Incident Handling
 
 In this lab, I simulate the lifecycle of support tickets within the osTicket system by creating, managing, and resolving tickets as both end users and help desk agents. The objective is to practice efficient ticket handling, ensure proper classification, and understand escalation paths while maintaining clear communication with the user.
