@@ -19,7 +19,7 @@ As a Help Desk Agent (John) change the SLA to "SEV-A" and update the Help Topic 
 Escalate the problem to a more capable department, in this case, the "Online Banking" department.
 ![mstsc_WodhEYXeqn](https://github.com/user-attachments/assets/e60fd970-b175-4a89-9257-ef60a9a93f7b)
 
-As an Online Bamking Agent (Jane), investigate the issue and resolve the problem. The close the ticket.
+As an Online Banking Agent (Jane), investigate the issue and resolve the problem. The close the ticket.
 ![mstsc_vkNqKFOubz](https://github.com/user-attachments/assets/06d5e39e-6004-44e2-8b0a-ee4e073289ec)
 
 ![mstsc_lph5IbpN8G](https://github.com/user-attachments/assets/2472a598-b4d9-48df-a4ec-fa806bc11ce6)
