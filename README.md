@@ -35,7 +35,7 @@ Once the problem is resolved, close the ticket and leave a note regarding the cl
 ![mstsc_foWw3m6tZ7](https://github.com/user-attachments/assets/1c6eb0b5-6c1a-47af-9e65-16d4e6bf8424)
 
 ## Ticket 3: CFO Laptop Fails to Power On
-From the end-user osTicket URL (http://localhost/osTicket) submit a ticket describing the issue. The CFO's laptop will not power on.
+From the end-user osTicket URL (http://localhost/osTicket) submit a ticket describing the issue. The issue, the CFO's laptop will not power on.
 ![mstsc_ievdSFzAZH](https://github.com/user-attachments/assets/c10ff392-55c4-4018-bab7-5b892fd4a267)
 
 As a Help Desk Agent (John) change the SLA to "SEV-B". Investigate the issue.
