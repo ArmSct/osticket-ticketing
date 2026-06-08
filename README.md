@@ -5,7 +5,7 @@ In this lab, I simulate the lifecycle of support tickets within the osTicket sys
 
 ## Technology Utilized
 - osTicket v1.15.8
-- Windows 10 Virtual Machine (Azure)
+- Windows 10 Virtual Machine (Azure) 
 - RDP for VM access
 - IIS, PHP, MySQL for backend support
 
