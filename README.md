@@ -7,7 +7,7 @@ In this lab, I simulate the lifecycle of support tickets within the osTicket sys
 - osTicket v1.15.8
 - Windows 10 Virtual Machine (Azure) 
 - RDP for VM access
-- IIS, PHP, MySQL for backend support
+- IIS, PHP, MySQL for backend support 
  
 ## Ticket 1: Online Banking System Outage
 From the end-user osTicket URL (http://localhost/osTicket) submit a ticket as karen (end-user) describing the issue. The issue, Users cannot access the online banking portal.
